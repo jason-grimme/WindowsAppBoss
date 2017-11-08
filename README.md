@@ -1,7 +1,7 @@
 # WindowsAppBoss
 
 ### Note:
-This is a clone from CodePlex, which is now closed.  https://windowsappboss.codeplex.com. While it may *look* like I wrote this in 2017, it was actually 2013 :)
+This is a clone from CodePlex, which is now closed.  https://windowsappboss.codeplex.com. While it may *look* like I wrote this in 2017, it was actually 2013 :) . **Download the current release** (again, from 2013) [here](https://github.com/jason-grimme/WindowsAppBoss/releases/tag/1.0.2.3).
 
 ## About
 
